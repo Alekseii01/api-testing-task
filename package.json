@@ -2,6 +2,10 @@
   "name": "api-testing-task",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "A simple API testing task using Playwright",
+  "scripts": {
+    "test": "playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 const username = `user_${Date.now()}`;
-const password = 'password123';
+const password = 'SuperLabubu321#';
 
 let userID;
 let token;
