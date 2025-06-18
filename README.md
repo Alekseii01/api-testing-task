@@ -1,6 +1,6 @@
 # api-testing-task
 
-## Branch Task-1Add commentMore actions
+## Branch Task-1
 
 API testing with endpoints from https://demoqa.com/swagger
 
