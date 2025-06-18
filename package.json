@@ -1,0 +1,20 @@
+{
+  "name": "api-testing-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "description": "A simple API testing task using Playwright and Jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "jest": "^30.0.0",
+    "supertest": "^7.1.1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
